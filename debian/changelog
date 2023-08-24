@@ -1,4 +1,10 @@
-wubi (22.04.1r345) jammy; urgency=low
+wubi (22.04.3r345) jammy; urgency=low
+
+  [Niktendo]
+
+  * Bump to 22.04.3
+
+wubi (22.04.2r345) jammy; urgency=low
 
   [Niktendo]
 
